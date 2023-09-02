@@ -75,7 +75,7 @@ impl Contract {
             owner_id,
             NFTContractMetadata {
                 spec: "nft-1.0.0".to_string(),
-                name: "Greenlight Project".to_string(),
+                name: "Dapp Prototype".to_string(),
                 symbol: "GOTEAM".to_string(),
                 icon: Some("https://cdn-icons-png.flaticon.com/512/628/628283.png".to_string()),
                 base_uri: None,
